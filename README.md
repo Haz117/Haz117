@@ -1,124 +1,111 @@
-<div align="center">
-  
 # 👋 ¡Hola! Soy Hazel Jared Almaraz Martinez
 
-### 💻 Desarrollador de Software | 🔥 React Native · Vue 3 · Python | ⚡ Firebase · TypeScript
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;React+Native+%7C+Vue+3+%7C+Python;Firebase+%7C+TypeScript;Operador+de+Sistemas)](https://git.io/typing-svg)
 
 </div>
-
----
 
 ## 🚀 Sobre Mí
 
 Soy un **Desarrollador de Software** apasionado por crear soluciones tecnológicas innovadoras. Actualmente trabajo como **Operador de Sistemas** en la Presidencia Municipal de Ixmiquilpan, donde desarrollo y mantengo sistemas en producción.
 
-```javascript
-const hazel = {
-    rol: "Desarrollador de Software",
-    ubicacion: "Ixmiquilpan, México 🇲🇽",
-    trabajo: "Operador de Sistemas - Gobierno Municipal",
-    enfoque: "Soluciones móviles y web escalables",
-    mentalidad: "Aprendizaje continuo y mejora constante"
-};
-```
+- 🔭 Trabajando en proyectos con **React Native**, **Vue 3** y **Python**
+- 🌱 Especializado en **Firebase** y desarrollo de aplicaciones móviles
+- 💼 Experiencia en sistemas de gestión y aplicaciones empresariales
+- 🎯 Enfocado en crear soluciones eficientes y escalables
 
-## 🛠️ Stack Tecnológico
-
-### Frontend 🎨
-```
-📱 React Native    🎯 Vue 3    ⚡ JavaScript    💙 TypeScript    
-🌐 HTML5    🎨 CSS3
-```
-
-### Backend & Database 🗄️
-```
-🐍 Python    🔥 Firebase    💚 Node.js
-```
-
-### Herramientas & DevOps 🔧
-```
-📦 Git    🐙 GitHub    💻 VS Code    📊 Vercel
-```
-
-## 📊 GitHub Stats
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
-### 📈 Contribuciones
-**380 contribuciones totales** desde Agosto 2022
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔥 Racha Actual
-**4 días consecutivos** (Feb 23 - Feb 26)
+### Backend & Database
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🏅 Racha Más Larga
-**4 días** (Feb 23 - Feb 26)
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haz117&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haz117&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haz117&theme=radical&hide_border=true&background=0D1117&stroke=F72585&ring=F72585&fire=F72585&currStreakLabel=F72585"/>
 
 </div>
 
 ## 🌟 Proyectos Destacados
 
-### 🏥 [lxmi](https://github.com/Haz117/lxmi)
-`JavaScript` · Sistema de gestión municipal
+<div align="center">
 
-### 🦷 [Dentalcare](https://github.com/Haz117/Dentalcare)  
-`JavaScript` · Aplicación para clínica dental
+| Proyecto | Descripción | Tecnología |
+|----------|-------------|------------|
+| 🏥 [**lxmi**](https://github.com/Haz117/lxmi) | Sistema de gestión municipal | JavaScript |
+| 🦷 [**Dentalcare**](https://github.com/Haz117/Dentalcare) | Aplicación para clínica dental | JavaScript |
+| 🔧 [**Ferregamas**](https://github.com/Haz117/Ferregamas) | Sistema de ferretería | JavaScript |
+| 💡 [**Lumixmi**](https://github.com/Haz117/Lumixmi) | Plataforma de iluminación | TypeScript |
+| 📝 [**To-do**](https://github.com/Haz117/To-do) | Gestor de tareas | JavaScript |
+| 📦 [**lxmisport**](https://github.com/Haz117/lxmisport) | Sistema deportivo | Vue |
 
-### 🔧 [Ferregamas](https://github.com/Haz117/Ferregamas)
-`JavaScript` · Sistema de ferretería
+</div>
 
-### 💡 [Lumixmi](https://github.com/Haz117/Lumixmi)
-`TypeScript` · Plataforma de iluminación
+## 📈 Actividad Reciente
 
-### 📝 [To-do](https://github.com/Haz117/To-do)
-`JavaScript` · Gestor de tareas
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-### 📦 [lxmisport](https://github.com/Haz117/lxmisport)
-`Vue` · Sistema deportivo
+## 🏆 Logros de GitHub
 
-## 🏆 Logros
-
-```
-🏆 11 Repositorios Públicos
-⭐ 2 Estrellas Ganadas
-🔄 Contribuyendo Activamente
-💻 Sistemas en Producción
-```
-
-## 💼 Experiencia Profesional
-
-```
-🏢 Operador de Sistemas
-📍 Presidencia Municipal de Ixmiquilpan
-📅 Agosto 2022 - Presente
-
-Responsabilidades:
-  📱 Desarrollo de aplicaciones móviles con React Native
-  🌐 Desarrollo web con Vue 3 y TypeScript  
-  🔥 Backend con Python y Firebase
-  ⚙️ Mantenimiento de sistemas en producción
-  🔧 Soporte técnico y resolución de incidencias
-```
-
-## 📚 Habilidades
+## 🏆 Logros de GitHub
 
 <div align="center">
 
-| Frontend | Backend | Tools |
-|:--------:|:-------:|:-----:|
-| ⚛️ React Native | 🐍 Python | 📦 Git |
-| 🎯 Vue 3 | 🔥 Firebase | 🐙 GitHub |
-| ⚡ JavaScript | 💚 Node.js | 💻 VS Code |
-| 💙 TypeScript | 🗄️ Databases | 📊 Vercel |
+<img src="https://github-profile-trophy.vercel.app/?username=Haz117&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
+
+## 💼 Experiencia
+
+```yaml
+Desarrollador de Software:
+  - Desarrollo de aplicaciones móviles con React Native
+  - Desarrollo web con Vue 3 y TypeScript
+  - Backend con Python y Firebase
+  - Sistemas en producción para gobierno municipal
+  
+Tecnologías en Producción:
+  - Frontend: Vue 3, React Native, JavaScript, TypeScript
+  - Backend: Python, Firebase, Node.js
+  - Control de versiones: Git, GitHub
+```
 
 ## 📫 Conecta Conmigo
 
 <div align="center">
 
-🌐 **[Mi Portafolio](https://git-hrj73iivx-hazels-projects-51541463.vercel.app/)** · 
-🐙 **[GitHub](https://github.com/Haz117)** · 
-💼 **[LinkedIn](https://linkedin.com/in/hazel-almaraz)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://git-hrj73iivx-hazels-projects-51541463.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haz117)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazel-almaraz)
 
 </div>
 
@@ -126,19 +113,8 @@ Responsabilidades:
 
 <div align="center">
   
-### 💡 *"El código es poesía en movimiento"*
+### 💡 "El código es poesía en movimiento"
 
-```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
-**⭐ Si te gusta mi trabajo, deja una estrella en mis repos ⭐**
-
-![Visitas al perfil](https://komarev.com/ghpvc/?username=Haz117&color=blueviolet&style=flat-square&label=Visitas)
+![Profile Views](https://komarev.com/ghpvc/?username=Haz117&color=F72585&style=flat-square&label=Visitas+al+Perfil)
 
 </div>
