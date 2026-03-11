@@ -108,11 +108,11 @@ congreso:      ANIEI 2024 — modelos CNN con TensorFlow/Keras
 
 ---
 
-## Trofeos
+## Actividad
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Haz117&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haz117&bg_color=090c06&color=8ab52a&line=6B8E23&point=EDE8DC&area=true&area_color=6B8E23&hide_border=true" />
 
 </div>
 
