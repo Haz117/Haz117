@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-git--two--xi.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://git-two-xi.vercel.app)
-[![Gmail](https://img.shields.io/badge/Email-hazeljared117-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hazelalmaraz91@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-hazelalmaraz91@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hazelalmaraz91@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hazel--almaraz--martinez-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/hazel-almaraz-martinez)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B52_773_113_5626-25d366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/527731135626)
 
@@ -218,16 +218,22 @@ Sistema web municipal para **reservación de espacios deportivos** de Ixmiquilpa
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haz117&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&rank_icon=github&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haz117&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Haz117&show_icons=true&bg_color=0d1520&border_color=1e3a5f&title_color=38bdf8&icon_color=60a5fa&text_color=e2e8f0&hide_border=false&rank_icon=percentile&count_private=true&include_all_commits=true&ring_color=38bdf8&border_radius=12" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Haz117&show_icons=true&bg_color=0d1520&border_color=1e3a5f&title_color=38bdf8&icon_color=60a5fa&text_color=e2e8f0&hide_border=false&rank_icon=percentile&count_private=true&include_all_commits=true&ring_color=38bdf8&border_radius=12" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Haz117&layout=compact&bg_color=0d1520&border_color=1e3a5f&title_color=38bdf8&text_color=e2e8f0&hide_border=false&langs_count=8&border_radius=12" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haz117&layout=compact&bg_color=0d1520&border_color=1e3a5f&title_color=38bdf8&text_color=e2e8f0&hide_border=false&langs_count=8&border_radius=12" />
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Haz117&theme=github-dark-blue&background=0d1117&border=21262d&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=79c0ff" />
+<img src="https://streak-stats.demolab.com?user=Haz117&background=0d1520&border=1e3a5f&stroke=38bdf8&ring=38bdf8&fire=60a5fa&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=64748b&currStreakNum=38bdf8&sideNums=7dd3fc&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haz117&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=1a3a7a&hide_border=true&custom_title=Actividad%20de%20Contribuciones" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haz117&bg_color=0d1520&color=7dd3fc&line=38bdf8&point=60a5fa&area=true&area_color=0d2d6b&hide_border=false&border_color=1e3a5f&custom_title=Actividad+de+Contribuciones&title_color=38bdf8&radius=6" width="96%"/>
 
 </div>
 
@@ -237,7 +243,7 @@ Sistema web municipal para **reservación de espacios deportivos** de Ixmiquilpa
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Haz117&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Haz117&theme=nord&no-bg=true&no-frame=true&column=7&margin-w=6&margin-h=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
