@@ -1,6 +1,9 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:090c06,40:0f1309,75:141a0b,100:1e2d10&height=240&section=header&text=Hazel%20Jared%20Almaraz&fontSize=52&fontColor=8ab52a&fontAlignY=42&desc=Full%20Stack%20Developer%20·%20Ixmiquilpan%2C%20Hidalgo%20·%20México&descAlignY=62&descColor=b5ae99&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:eaf5d0,40:d4eda0,75:c0e480,100:aad460&height=240&section=header&text=Hazel%20Jared%20Almaraz&fontSize=52&fontColor=2d5008&fontAlignY=42&desc=Full%20Stack%20Developer%20·%20Ixmiquilpan%2C%20Hidalgo%20·%20México&descAlignY=62&descColor=4a6b20&animation=fadeIn" width="100%"/>
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090c06,40:0f1309,75:141a0b,100:1e2d10&height=240&section=header&text=Hazel%20Jared%20Almaraz&fontSize=52&fontColor=8ab52a&fontAlignY=42&desc=Full%20Stack%20Developer%20·%20Ixmiquilpan%2C%20Hidalgo%20·%20México&descAlignY=62&descColor=b5ae99&animation=fadeIn&reversal=false" width="100%"/>
+<div align="center">
 
 <br/>
 
@@ -20,7 +23,10 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8ab52a,100:6b8e23&height=3" width="100%"/>
+</picture>
 
 <div align="center">
 <br/>
@@ -53,7 +59,10 @@
 <br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b8e23,100:8ab52a&height=3" width="100%"/>
+</picture>
 
 <br/>
 
@@ -79,7 +88,10 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8ab52a,100:6b8e23&height=3" width="100%"/>
+</picture>
 
 <br/>
 
@@ -129,7 +141,10 @@ Ponente ANIEI Nacional
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b8e23,100:8ab52a&height=3" width="100%"/>
+</picture>
 
 <br/>
 
@@ -174,7 +189,10 @@ Ponente ANIEI Nacional
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8ab52a,100:6b8e23&height=3" width="100%"/>
+</picture>
 
 <br/>
 
@@ -270,7 +288,10 @@ Reservación de espacios deportivos municipales.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b8e23,100:8ab52a&height=3" width="100%"/>
+</picture>
 
 <br/>
 
@@ -280,26 +301,50 @@ Reservación de espacios deportivos municipales.
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haz117&theme=github_dark" width="96%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haz117&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haz117&theme=github" width="96%"/>
+</picture>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haz117&theme=github_dark" height="175"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haz117&theme=github_dark" height="175"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haz117&theme=github_dark" height="175"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haz117&theme=github_dark&utcOffset=-6" height="175"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haz117&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haz117&theme=vue" height="175"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haz117&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haz117&theme=vue" height="175"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haz117&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haz117&theme=vue" height="175"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haz117&theme=github_dark&utcOffset=-6"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haz117&theme=vue&utcOffset=-6" height="175"/>
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Haz117&background=0f1309&border=28351a&stroke=6b8e23&ring=8ab52a&fire=8ab52a&currStreakLabel=ede8dc&sideLabels=b5ae99&dates=6b6458&currStreakNum=8ab52a&sideNums=6b8e23&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Haz117&background=0f1309&border=28351a&stroke=6b8e23&ring=8ab52a&fire=8ab52a&currStreakLabel=ede8dc&sideLabels=b5ae99&dates=6b6458&currStreakNum=8ab52a&sideNums=6b8e23&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=Haz117&background=f8fff2&border=8ab52a&stroke=6b8e23&ring=4a7c10&fire=6b8e23&currStreakLabel=2d5008&sideLabels=4a6b20&dates=6b6458&currStreakNum=2d5008&sideNums=3d6b10&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
+</picture>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haz117&bg_color=090c06&color=8ab52a&line=6b8e23&point=8ab52a&area=true&area_color=1a2110&hide_border=false&border_color=28351a&custom_title=Actividad+de+Contribuciones&title_color=8ab52a&radius=6" width="96%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Haz117&bg_color=090c06&color=8ab52a&line=6b8e23&point=8ab52a&area=true&area_color=1a2110&hide_border=false&border_color=28351a&custom_title=Actividad+de+Contribuciones&title_color=8ab52a&radius=6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haz117&bg_color=f8fff2&color=2d5008&line=4a7c10&point=6b8e23&area=true&area_color=d4eda0&hide_border=false&border_color=8ab52a&custom_title=Actividad+de+Contribuciones&title_color=2d5008&radius=6" width="96%"/>
+</picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8ab52a,100:6b8e23&height=3" width="100%"/>
+</picture>
 
 <br/>
 
@@ -325,7 +370,10 @@ Reservación de espacios deportivos municipales.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b8e23,100:8ab52a&height=3" width="100%"/>
+</picture>
 
 <br/>
 
@@ -337,10 +385,16 @@ Reservación de espacios deportivos municipales.
 
 **520 contribuciones · JavaScript · Python · Vue**
 
-<img src="https://ghchart.rshah.org/6b8e23/Haz117" alt="Contribuciones GitHub" width="96%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/6b8e23/Haz117"/>
+  <img src="https://ghchart.rshah.org/4a7c10/Haz117" alt="Contribuciones GitHub" width="96%"/>
+</picture>
 
 <br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e2d10,40:141a0b,75:0f1309,100:090c06&height=160&section=footer&text=Construyo+software+que+resuelve+problemas+reales&fontSize=18&fontColor=8ab52a&fontAlignY=48&desc=Desde+Ixmiquilpan%2C+Hidalgo+al+mundo+·+©+2026+HJA+Dev&descAlignY=70&descColor=6b6458&animation=fadeIn&reversal=true" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e2d10,40:141a0b,75:0f1309,100:090c06&height=160&section=footer&text=Construyo+software+que+resuelve+problemas+reales&fontSize=18&fontColor=8ab52a&fontAlignY=48&desc=Desde+Ixmiquilpan%2C+Hidalgo+al+mundo+·+©+2026+HJA+Dev&descAlignY=70&descColor=6b6458&animation=fadeIn&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:aad460,40:c0e480,75:d4eda0,100:eaf5d0&height=160&section=footer&text=Construyo+software+que+resuelve+problemas+reales&fontSize=18&fontColor=2d5008&fontAlignY=48&desc=Desde+Ixmiquilpan%2C+Hidalgo+al+mundo+·+©+2026+HJA+Dev&descAlignY=70&descColor=4a6b20&animation=fadeIn&reversal=true" width="100%"/>
+</picture>
