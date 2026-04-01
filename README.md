@@ -20,10 +20,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3" width="100%"/>
 
 <div align="center">
-
 <br/>
 
 <table>
@@ -52,10 +51,9 @@
 </table>
 
 <br/>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3" width="100%"/>
 
 <br/>
 
@@ -81,11 +79,63 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3" width="100%"/>
 
-## Stack Técnico
+<br/>
 
 <div align="center">
+
+![](https://img.shields.io/badge/───────────────────────────────────────────_ESPECIALIDADES_───────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+![](https://img.shields.io/badge/📱_MOBILE-0f1309?style=for-the-badge&labelColor=141a0b&color=8ab52a)
+
+**React Native · Expo**
+
+Apps municipales offline-first
+GPS · FCM · Cámara · Realtime
+4 apps en producción
+
+</td>
+<td align="center" width="33%">
+
+![](https://img.shields.io/badge/🌐_WEB_FULL_STACK-0f1309?style=for-the-badge&labelColor=141a0b&color=6b8e23)
+
+**React · Vue 3 · Firebase**
+
+Plataformas gobierno digital
+SEO · Animaciones · Panel Admin
+Reconocidas internacionalmente
+
+</td>
+<td align="center" width="33%">
+
+![](https://img.shields.io/badge/🤖_MACHINE_LEARNING-0f1309?style=for-the-badge&labelColor=141a0b&color=8ab52a)
+
+**TensorFlow · Keras · Python**
+
+Modelos CNN publicados
+Random Forest · scikit-learn
+Ponente ANIEI Nacional
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/───────────────────────────────────────────────_STACK_TÉCNICO_───────────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
 
 **Frontend & Mobile**
 
@@ -122,9 +172,17 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3&section=header" width="100%"/>
+<br/>
 
-## Proyectos en Producción
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/────────────────────────────────────────_PROYECTOS_EN_PRODUCCIÓN_────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
+
+</div>
 
 <table>
 <tr>
@@ -212,14 +270,23 @@ Reservación de espacios deportivos municipales.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3" width="100%"/>
 
-## GitHub Stats
+<br/>
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Haz117&show_icons=true&bg_color=0f1309&border_color=28351a&title_color=8ab52a&icon_color=6b8e23&text_color=ede8dc&hide_border=false&rank_icon=percentile&count_private=true&include_all_commits=true&ring_color=6b8e23&border_radius=10"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haz117&layout=compact&bg_color=0f1309&border_color=28351a&title_color=8ab52a&text_color=ede8dc&hide_border=false&langs_count=8&border_radius=10"/>
+![](https://img.shields.io/badge/──────────────────────────────────────────────_GITHUB_STATS_──────────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haz117&theme=vue" width="96%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haz117&theme=vue" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haz117&theme=vue" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haz117&theme=vue" height="180"/>
 
 <br/>
 
@@ -231,11 +298,15 @@ Reservación de espacios deportivos municipales.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3" width="100%"/>
 
-## Educación & Reconocimientos
+<br/>
 
 <div align="center">
+
+![](https://img.shields.io/badge/────────────────────────────────────_EDUCACIÓN_Y_RECONOCIMIENTOS_────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
+
+<br/>
 
 | Año | |
 |:---:|:---|
@@ -253,9 +324,13 @@ Reservación de espacios deportivos municipales.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3" width="100%"/>
+
+<br/>
 
 <div align="center">
+
+![](https://img.shields.io/badge/─────────────────────────────────────────────_CONTRIBUCIONES_─────────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
 
 <br/>
 
