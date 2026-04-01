@@ -1,13 +1,26 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:090c06,40:0f1309,75:141a0b,100:1e2d10&height=240&section=header&text=Hazel%20Jared%20Almaraz&fontSize=52&fontColor=8ab52a&fontAlignY=42&desc=Full%20Stack%20Developer%20·%20Ixmiquilpan%2C%20Hidalgo%20·%20México&descAlignY=62&descColor=b5ae99&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:eaf5d0,40:d4eda0,75:c0e480,100:aad460&height=240&section=header&text=Hazel%20Jared%20Almaraz&fontSize=52&fontColor=2d5008&fontAlignY=42&desc=Full%20Stack%20Developer%20·%20Ixmiquilpan%2C%20Hidalgo%20·%20México&descAlignY=62&descColor=4a6b20&animation=fadeIn" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=141a0b&height=8"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6b8e23&height=8" width="100%"/>
 </picture>
 
 <div align="center">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=8AB52A&center=true&vCenter=true&width=700&lines=6+sistemas+en+producción+real;71%2B+usuarios+activos+municipales;Premio+OX+2026+·+Editorial+OX+España;AWS+Certified+Cloud+Practitioner;ANIEI+2024+·+Ponente+Nacional)](https://git.io/typing-svg)
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="140" align="center" valign="middle">
+<img src="https://avatars.githubusercontent.com/Haz117" width="120" alt="Hazel Jared Almaraz"/>
+</td>
+<td align="left" valign="middle" style="padding-left:20px">
+
+# Hazel Jared Almaraz
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=800&color=8AB52A&vCenter=true&width=520&lines=Full+Stack+Developer+·+UAEH+2025;6+sistemas+en+producción+real;71%2B+usuarios+activos+municipales;Premio+OX+2026+·+AWS+Certified+·+ANIEI+2024)](https://git.io/typing-svg)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -24,8 +37,8 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8ab52a,100:6b8e23&height=3" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a2110&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8ab52a&height=3" width="100%"/>
 </picture>
 
 <div align="center">
@@ -60,8 +73,8 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b8e23,100:8ab52a&height=3" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=28351a&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6b8e23&height=3" width="100%"/>
 </picture>
 
 <br/>
@@ -89,8 +102,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8ab52a,100:6b8e23&height=3" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a2110&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8ab52a&height=3" width="100%"/>
 </picture>
 
 <br/>
@@ -142,8 +155,8 @@ Ponente ANIEI Nacional
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b8e23,100:8ab52a&height=3" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=28351a&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6b8e23&height=3" width="100%"/>
 </picture>
 
 <br/>
@@ -190,8 +203,8 @@ Ponente ANIEI Nacional
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8ab52a,100:6b8e23&height=3" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a2110&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8ab52a&height=3" width="100%"/>
 </picture>
 
 <br/>
@@ -289,8 +302,8 @@ Reservación de espacios deportivos municipales.
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b8e23,100:8ab52a&height=3" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=28351a&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6b8e23&height=3" width="100%"/>
 </picture>
 
 <br/>
@@ -342,8 +355,8 @@ Reservación de espacios deportivos municipales.
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8ab52a,100:6b8e23&height=3" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a2110&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8ab52a&height=3" width="100%"/>
 </picture>
 
 <br/>
@@ -371,8 +384,8 @@ Reservación de espacios deportivos municipales.
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b8e23,100:8ab52a&height=3" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=28351a&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6b8e23&height=3" width="100%"/>
 </picture>
 
 <br/>
@@ -395,6 +408,11 @@ Reservación de espacios deportivos municipales.
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e2d10,40:141a0b,75:0f1309,100:090c06&height=160&section=footer&text=Construyo+software+que+resuelve+problemas+reales&fontSize=18&fontColor=8ab52a&fontAlignY=48&desc=Desde+Ixmiquilpan%2C+Hidalgo+al+mundo+·+©+2026+HJA+Dev&descAlignY=70&descColor=6b6458&animation=fadeIn&reversal=true"/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:aad460,40:c0e480,75:d4eda0,100:eaf5d0&height=160&section=footer&text=Construyo+software+que+resuelve+problemas+reales&fontSize=18&fontColor=2d5008&fontAlignY=48&desc=Desde+Ixmiquilpan%2C+Hidalgo+al+mundo+·+©+2026+HJA+Dev&descAlignY=70&descColor=4a6b20&animation=fadeIn&reversal=true" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=141a0b&height=60&text=Construyo+software+que+resuelve+problemas+reales+·+©+2026+HJA+Dev&fontSize=13&fontColor=8ab52a&fontAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=d4eda0&height=60&text=Construyo+software+que+resuelve+problemas+reales+·+©+2026+HJA+Dev&fontSize=13&fontColor=2d5008&fontAlignY=55" width="100%"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=6b8e23&height=8"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=141a0b&height=8" width="100%"/>
 </picture>
