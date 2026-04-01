@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090c06,40:0f1309,80:141a0b,100:1a2110&height=220&section=header&text=Hazel%20Jared%20Almaraz&fontSize=48&fontColor=8ab52a&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Ixmiquilpan%2C%20Hidalgo%20·%20México&descAlignY=60&descColor=b5ae99&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090c06,40:0f1309,75:141a0b,100:1e2d10&height=240&section=header&text=Hazel%20Jared%20Almaraz&fontSize=52&fontColor=8ab52a&fontAlignY=42&desc=Full%20Stack%20Developer%20·%20Ixmiquilpan%2C%20Hidalgo%20·%20México&descAlignY=62&descColor=b5ae99&animation=fadeIn&reversal=false" width="100%"/>
 
 <br/>
 
@@ -280,13 +280,14 @@ Reservación de espacios deportivos municipales.
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haz117&theme=vue" width="96%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haz117&theme=github_dark" width="96%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haz117&theme=vue" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haz117&theme=vue" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haz117&theme=vue" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haz117&theme=github_dark" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haz117&theme=github_dark" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haz117&theme=github_dark" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haz117&theme=github_dark&utcOffset=-6" height="175"/>
 
 <br/>
 
@@ -342,4 +343,4 @@ Reservación de espacios deportivos municipales.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2110,50:141a0b,100:090c06&height=140&section=footer&text=Construyo+software+que+resuelve+problemas+reales&fontSize=17&fontColor=8ab52a&fontAlignY=45&desc=Desde+Ixmiquilpan%2C+Hidalgo+al+mundo&descAlignY=68&descColor=b5ae99&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e2d10,40:141a0b,75:0f1309,100:090c06&height=160&section=footer&text=Construyo+software+que+resuelve+problemas+reales&fontSize=18&fontColor=8ab52a&fontAlignY=48&desc=Desde+Ixmiquilpan%2C+Hidalgo+al+mundo+·+©+2026+HJA+Dev&descAlignY=70&descColor=6b6458&animation=fadeIn&reversal=true" width="100%"/>
