@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-git--two--xi.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://git-two-xi.vercel.app)
-[![Gmail](https://img.shields.io/badge/Email-hazeljared117-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hazeljared117@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-hazeljared117-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hazelalmaraz91@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hazel--almaraz--martinez-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/hazel-almaraz-martinez)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B52_773_113_5626-25d366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/527731135626)
 
