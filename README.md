@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=8AB52A&center=true&vCenter=true&width=680&lines=6+sistemas+en+producción+real;71%2B+usuarios+activos+municipales;Premio+OX+2026+·+Editorial+OX+España;AWS+Certified+Cloud+Practitioner+☁;ANIEI+2024+·+Ponente+Nacional)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=8AB52A&center=true&vCenter=true&width=700&lines=6+sistemas+en+producción+real;71%2B+usuarios+activos+municipales;Premio+OX+2026+·+Editorial+OX+España;AWS+Certified+Cloud+Practitioner;ANIEI+2024+·+Ponente+Nacional)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,58 +20,68 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3&section=header" width="100%"/>
 
 <div align="center">
 
-## ░ Impacto Real ░
+<br/>
 
 <table>
 <tr>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/6-0f1309?style=for-the-badge&labelColor=6b8e23&color=0f1309" /><br/>
-<strong>sistemas</strong><br/><sub>en producción</sub>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/6-SISTEMAS-141a0b?style=for-the-badge&labelColor=6b8e23&color=141a0b" /><br/>
+<sub>en producción real</sub>
 </td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/71%2B-0f1309?style=for-the-badge&labelColor=8ab52a&color=0f1309" /><br/>
-<strong>usuarios</strong><br/><sub>activos municipales</sub>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/71%2B-USUARIOS-141a0b?style=for-the-badge&labelColor=8ab52a&color=141a0b" /><br/>
+<sub>activos municipales</sub>
 </td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/OX_2026-0f1309?style=for-the-badge&labelColor=6b8e23&color=0f1309" /><br/>
-<strong>Premio</strong><br/><sub>Internacional España</sub>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/★-OX_2026-141a0b?style=for-the-badge&labelColor=6b8e23&color=141a0b" /><br/>
+<sub>Premio Internacional</sub>
 </td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/AWS-0f1309?style=for-the-badge&labelColor=8ab52a&color=0f1309" /><br/>
-<strong>Certified</strong><br/><sub>CLF-C02</sub>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/AWS-CERTIFIED-141a0b?style=for-the-badge&labelColor=8ab52a&color=141a0b" /><br/>
+<sub>CLF-C02</sub>
 </td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/ANIEI-0f1309?style=for-the-badge&labelColor=6b8e23&color=0f1309" /><br/>
-<strong>Ponente</strong><br/><sub>Nacional 2024</sub>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/ANIEI-PONENTE-141a0b?style=for-the-badge&labelColor=6b8e23&color=141a0b" /><br/>
+<sub>Nacional 2024</sub>
 </td>
 </tr>
 </table>
 
+<br/>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3&section=header" width="100%"/>
 
-## Sobre Mí
+<br/>
 
-**Full Stack Developer** egresado de UAEH 2025 · Operador de Sistemas @ Ixmiquilpan
-
-No construyo demos — construyo herramientas que 71+ personas usan cada día en gobierno municipal real. Desde apps móviles offline-first hasta plataformas web reconocidas internacionalmente.
-
-> *"El código que vale no vive en localhost. Vive en manos de secretarios, directores y técnicos que lo usan todos los días."*
-
-```yaml
-ubicacion:      Ixmiquilpan, Hidalgo, México
-experiencia:    2+ años producción real
-especialidad:   Full Stack · Mobile · ML · Gobierno Digital
-disponible:     Proyectos freelance · Colaboraciones remotas
-respuesta:      < 24 horas
+```bash
+┌─[haz117@dev]─[~/sistemas-municipales]─[Ixmiquilpan, Hidalgo]
+│
+├──$ whoami
+│      Full Stack Developer · UAEH 2025 · Operador de Sistemas
+│
+├──$ cat filosofia.txt
+│      No construyo demos.
+│      Construyo herramientas que 71+ personas usan cada día.
+│      Gobierno municipal real. Producción real. Impacto real.
+│
+├──$ ls ./logros/
+│      premio-ox-2026/    aws-clf-c02/    aniei-ponente-2024/    uaeh-2025/
+│
+├──$ cat disponibilidad.txt
+│      Freelance · Proyectos remotos · Respuesta < 24h
+│
+└──$ █
 ```
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3&section=header" width="100%"/>
 
 ## Stack Técnico
 
@@ -90,7 +100,7 @@ respuesta:      < 24 horas
 **Backend & Cloud**
 
 ![Firebase](https://img.shields.io/badge/Firebase-0f1309?style=for-the-badge&logo=firebase&logoColor=8ab52a&labelColor=141a0b)
-![AWS](https://img.shields.io/badge/AWS_Certified-0f1309?style=for-the-badge&logo=amazonwebservices&logoColor=6b8e23&labelColor=141a0b)
+![AWS Certified](https://img.shields.io/badge/AWS_Certified-0f1309?style=for-the-badge&logo=amazonwebservices&logoColor=6b8e23&labelColor=141a0b)
 ![Google Maps](https://img.shields.io/badge/Google_Maps_API-0f1309?style=for-the-badge&logo=googlemaps&logoColor=8ab52a&labelColor=141a0b)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f1309?style=for-the-badge&logo=githubactions&logoColor=6b8e23&labelColor=141a0b)
 ![FCM](https://img.shields.io/badge/FCM_Push-0f1309?style=for-the-badge&logo=firebase&logoColor=8ab52a&labelColor=141a0b)
@@ -112,7 +122,7 @@ respuesta:      < 24 horas
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3&section=header" width="100%"/>
 
 ## Proyectos en Producción
 
@@ -122,9 +132,9 @@ respuesta:      < 24 horas
 
 ### TodoApp — Gestión Municipal
 ![](https://img.shields.io/badge/React_Native_·_Firebase_·_Expo_·_FCM-141a0b?style=flat-square&logo=react&logoColor=8ab52a)
-![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
 
-Sistema de gestión de tareas para el municipio de **Zempoala, Hidalgo**.
+Gestión de tareas para el municipio de **Zempoala, Hidalgo**.
 
 - **71+ usuarios** — 11 secretarios · 57 directores · 3 admins
 - Kanban · Calendario · Bandeja por roles
@@ -137,7 +147,7 @@ Sistema de gestión de tareas para el municipio de **Zempoala, Hidalgo**.
 ![](https://img.shields.io/badge/React_·_Tailwind_·_JavaScript_·_SEO-141a0b?style=flat-square&logo=react&logoColor=8ab52a)
 ![](https://img.shields.io/badge/★_PREMIO_OX_2026-6b8e23?style=flat-square)
 
-Sitio oficial del municipio. **Premio OX Internacional** — Editorial OX, España.
+Sitio oficial del municipio. **Premio OX Internacional** · España.
 
 - Reconocimiento internacional · Categoría Gobierno
 - SEO · Accesibilidad · Gestión de contenido
@@ -153,10 +163,10 @@ Sitio oficial del municipio. **Premio OX Internacional** — Editorial OX, Espa�
 ![](https://img.shields.io/badge/React_19_·_Vite_·_Firebase_·_Framer-141a0b?style=flat-square&logo=vite&logoColor=8ab52a)
 ![](https://img.shields.io/badge/●_LIVE-6b8e23?style=flat-square)
 
-Sitio oficial de la **XV Convención Internacional** Amigos Motociclistas BMW.
+Sitio oficial · **XV Convención Internacional** Amigos Motociclistas BMW.
 
-- Registro con códigos únicos · PDF con QR
-- Animaciones con Framer Motion
+- Registro con códigos únicos · PDF con QR personalizado
+- Animaciones Framer Motion
 
 [![](https://img.shields.io/badge/Demo_Live-8ab52a?style=for-the-badge&logo=vercel&logoColor=0f1309)](https://bmwam.vercel.app/)
 
@@ -167,11 +177,10 @@ Sitio oficial de la **XV Convención Internacional** Amigos Motociclistas BMW.
 ![](https://img.shields.io/badge/React_Native_·_Firebase_·_Google_Maps-141a0b?style=flat-square&logo=googlemaps&logoColor=8ab52a)
 ![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
 
-App móvil para levantamiento de campo de luminarias municipales.
+Levantamiento de campo de luminarias públicas municipales.
 
-- GPS automático · Captura fotográfica
-- **Funciona sin señal** (offline-first)
-- Sync automático al recuperar conexión
+- GPS automático · Captura fotográfica integrada
+- **Funciona sin señal** · Sync al recuperar conexión
 
 </td>
 </tr>
@@ -180,13 +189,12 @@ App móvil para levantamiento de campo de luminarias municipales.
 
 ### Clasificación CNN — ANIEI 2024
 ![](https://img.shields.io/badge/Python_·_TensorFlow_·_Keras_·_Random_Forest-141a0b?style=flat-square&logo=tensorflow&logoColor=8ab52a)
-![](https://img.shields.io/badge/ANIEI_2024-6b8e23?style=flat-square)
+![](https://img.shields.io/badge/PONENTE_NACIONAL-6b8e23?style=flat-square)
 
-Presentado en el **XXXIII Reunión Nacional ANIEI**, Guadalajara.
+**XXXIII Reunión Nacional ANIEI** · Guadalajara.
 
 - Predicción de adaptabilidad estudiantil con CNN
-- Comparativa CNN vs Random Forest · Coautoría UAEH
-- **Ponente nacional**
+- CNN vs Random Forest · Coautoría UAEH
 
 </td>
 <td width="50%" valign="top">
@@ -195,7 +203,7 @@ Presentado en el **XXXIII Reunión Nacional ANIEI**, Guadalajara.
 ![](https://img.shields.io/badge/Vue_3_·_Firestore_·_Tailwind-141a0b?style=flat-square&logo=vuedotjs&logoColor=8ab52a)
 ![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
 
-Sistema web municipal para reservación de espacios deportivos.
+Reservación de espacios deportivos municipales.
 
 - Calendario interactivo · Disponibilidad en tiempo real
 - Control de canchas · Panel de administración
@@ -204,7 +212,7 @@ Sistema web municipal para reservación de espacios deportivos.
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3&section=header" width="100%"/>
 
 ## GitHub Stats
 
@@ -223,42 +231,40 @@ Sistema web municipal para reservación de espacios deportivos.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:28351a,100:1a2110&height=3&section=header" width="100%"/>
 
 ## Educación & Reconocimientos
 
 <div align="center">
 
-| Año | Logro |
-|:---:|-------|
-| 2020–2025 | Lic. Ingeniería en Desarrollo de Software — UAEH |
-| 2024 | Publicación ANIEI: *"Modelos CNN para Clasificación"* |
-| 2024 | Subcampeón Ajedrez Universitario — UAEH |
-| 2026 | AWS Cloud Practitioner Certified — CLF-C02 |
-| 2026 | **Premio OX Internacional** · Organismos y Gobierno · España |
+| Año | |
+|:---:|:---|
+| `2020–2025` | Lic. Ingeniería en Desarrollo de Software — UAEH |
+| `2024` | Publicación ANIEI: *"Modelos CNN para Clasificación"* |
+| `2024` | Subcampeón Ajedrez Universitario — UAEH |
+| `2026` | AWS Cloud Practitioner Certified — CLF-C02 |
+| `2026` | **Premio OX Internacional** · Organismos y Gobierno · España |
 
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified_CLF--C02-8ab52a?style=for-the-badge&logo=amazonwebservices&logoColor=0f1309&labelColor=141a0b)
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-CLF--C02_Certified-8ab52a?style=for-the-badge&logo=amazonwebservices&logoColor=0f1309&labelColor=141a0b)
 ![OX](https://img.shields.io/badge/Editorial_OX_España-Premio_Internacional_2026-6b8e23?style=for-the-badge&labelColor=141a0b)
 ![ANIEI](https://img.shields.io/badge/ANIEI_2024-Ponente_Nacional_·_Guadalajara-8ab52a?style=for-the-badge&labelColor=141a0b)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2110,100:28351a&height=3&section=header" width="100%"/>
 
 <div align="center">
 
-### Contribuciones
+<br/>
 
-![Snake animation](https://raw.githubusercontent.com/Haz117/Haz117/output/github-contribution-grid-snake-dark.svg)
+**520 contribuciones · JavaScript · Python · Vue**
+
+<img src="https://ghchart.rshah.org/6b8e23/Haz117" alt="Contribuciones GitHub" width="96%"/>
+
+<br/>
 
 </div>
-
----
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2110,50:141a0b,100:090c06&height=140&section=footer&text=Construyo+software+que+resuelve+problemas+reales&fontSize=17&fontColor=8ab52a&fontAlignY=45&desc=Desde+Ixmiquilpan%2C+Hidalgo+al+mundo&descAlignY=68&descColor=b5ae99&animation=fadeIn" width="100%"/>
-
-</div>
