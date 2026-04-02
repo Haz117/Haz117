@@ -61,39 +61,39 @@
 <br/>
 
 ```
-╭─────────────────────────────────────────────────────────────────────────────╮
-│  ○ ○ ○   haz117@dev  —  ~/sistemas-municipales  —  bash                     │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  $ cat /etc/perfil                                                           │
-│    Full Stack Developer · UAEH 2025 · Ixmiquilpan, Hidalgo                 │
-│    Operador de Sistemas · Presidencia Municipal                              │
-│                                                                              │
-│  $ uptime                                                                    │
-│    2+ años construyendo software en producción real                         │
-│                                                                              │
-│  $ cat /proc/reconocimientos                                                 │
-│    ★  Premio OX 2026 · Editorial OX Internacional · España                 │
-│    ✓  AWS Certified Cloud Practitioner — CLF-C02                            │
-│    ✓  ANIEI 2024 · Ponente Nacional · Guadalajara                           │
-│    ✓  UAEH · Ing. en Desarrollo de Software · 2025                         │
-│                                                                              │
-│  $ ps aux --filter=RUNNING                                                   │
-│                                                                              │
-│    PID   PROCESO                    USUARIOS     STATUS                     │
-│    ───   ──────────────────────     ───────────  ──────────────             │
-│    001   TodoApp Municipal          71+ activos  ● RUNNING                  │
-│    002   Gobierno Ixmiquilpan       Premio OX    ● RUNNING                  │
-│    003   BMW Ixmiquilpan 2026       INT'L        ● RUNNING                  │
-│    004   Luminarias GPS             Municipal    ● RUNNING                  │
-│    005   Reservación Deportiva      Municipal    ● RUNNING                  │
-│    006   CNN ANIEI 2024             UAEH         ○ PUBLISHED                │
-│                                                                              │
-│  $ cat config/disponibilidad.json                                            │
-│    { "freelance": true, "remoto": true, "respuesta": "< 24h" }              │
-│                                                                              │
-│  $█                                                                          │
-╰─────────────────────────────────────────────────────────────────────────────╯
++-----------------------------------------------------------------------------+
+|  o o o   haz117@dev  ~/sistemas-municipales  [main]                         |
++-----------------------------------------------------------------------------+
+|                                                                             |
+|  $ cat /etc/perfil                                                          |
+|    Full Stack Developer · UAEH 2025 · Ixmiquilpan, Hidalgo                 |
+|    Operador de Sistemas · Presidencia Municipal de Ixmiquilpan              |
+|                                                                             |
+|  $ uptime                                                                   |
+|    2+ anos construyendo software en produccion real                         |
+|                                                                             |
+|  $ cat /proc/reconocimientos                                                |
+|    [*] Premio OX 2026 · Editorial OX Internacional · Espana                |
+|    [+] AWS Certified Cloud Practitioner  CLF-C02                            |
+|    [+] ANIEI 2024 · Ponente Nacional · Guadalajara                          |
+|    [+] UAEH · Ing. en Desarrollo de Software · 2025                        |
+|                                                                             |
+|  $ ps aux --filter=RUNNING                                                  |
+|                                                                             |
+|    PID  PROCESO                   USUARIOS      STATUS                      |
+|    ---  ------------------------  ------------  -----------                  |
+|    001  TodoApp Municipal         71+ activos   [RUNNING]                   |
+|    002  Gobierno Ixmiquilpan      Premio OX     [RUNNING]                   |
+|    003  BMW Ixmiquilpan 2026      INT'L         [RUNNING]                   |
+|    004  Luminarias GPS            Municipal     [RUNNING]                   |
+|    005  Reservacion Deportiva     Municipal     [RUNNING]                   |
+|    006  CNN ANIEI 2024            UAEH          [PUBLISHED]                 |
+|                                                                             |
+|  $ cat config/disponibilidad.json                                           |
+|    { "freelance": true, "remoto": true, "respuesta": "< 24h" }             |
+|                                                                             |
+|  $                                                                          |
++-----------------------------------------------------------------------------+
 ```
 
 <br/>
@@ -111,10 +111,10 @@
 
 <br/>
 
-![](https://img.shields.io/badge/🔨_CONSTRUYENDO-Sistemas_para_Presidencia_Municipal-6b8e23?style=for-the-badge&labelColor=141a0b)
-![](https://img.shields.io/badge/☁️_ESTUDIANDO-Arquitecturas_Cloud_·_DevOps-8ab52a?style=for-the-badge&labelColor=141a0b)
-![](https://img.shields.io/badge/🎯_META_2026-AWS_Solutions_Architect-6b8e23?style=for-the-badge&labelColor=141a0b)
-![](https://img.shields.io/badge/📍_UBICACIÓN-Ixmiquilpan,_Hidalgo_·_México-8ab52a?style=for-the-badge&labelColor=141a0b)
+![](https://img.shields.io/badge/CONSTRUYENDO-Sistemas_Presidencia_Municipal-6b8e23?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=141a0b)
+![](https://img.shields.io/badge/APRENDIENDO-Cloud_Architecture_·_DevOps-8ab52a?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=141a0b)
+![](https://img.shields.io/badge/META_2026-AWS_Solutions_Architect-6b8e23?style=for-the-badge&logo=amazondynamodb&logoColor=white&labelColor=141a0b)
+![](https://img.shields.io/badge/UBICACION-Ixmiquilpan,_Hidalgo_·_Mexico-8ab52a?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=141a0b)
 
 </div>
 
