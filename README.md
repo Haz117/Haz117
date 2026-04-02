@@ -61,39 +61,40 @@
 <br/>
 
 ```
-+-----------------------------------------------------------------------------+
-|  o o o   haz117@dev  ~/sistemas-municipales  [main]                         |
-+-----------------------------------------------------------------------------+
-|                                                                             |
-|  $ cat /etc/perfil                                                          |
-|    Full Stack Developer · UAEH 2025 · Ixmiquilpan, Hidalgo                 |
-|    Operador de Sistemas · Presidencia Municipal de Ixmiquilpan              |
-|                                                                             |
-|  $ uptime                                                                   |
-|    2+ anos construyendo software en produccion real                         |
-|                                                                             |
-|  $ cat /proc/reconocimientos                                                |
-|    [*] Premio OX 2026 · Editorial OX Internacional · Espana                |
-|    [+] AWS Certified Cloud Practitioner  CLF-C02                            |
-|    [+] ANIEI 2024 · Ponente Nacional · Guadalajara                          |
-|    [+] UAEH · Ing. en Desarrollo de Software · 2025                        |
-|                                                                             |
-|  $ ps aux --filter=RUNNING                                                  |
-|                                                                             |
-|    PID  PROCESO                   USUARIOS      STATUS                      |
-|    ---  ------------------------  ------------  -----------                  |
-|    001  TodoApp Municipal         71+ activos   [RUNNING]                   |
-|    002  Gobierno Ixmiquilpan      Premio OX     [RUNNING]                   |
-|    003  BMW Ixmiquilpan 2026      INT'L         [RUNNING]                   |
-|    004  Luminarias GPS            Municipal     [RUNNING]                   |
-|    005  Reservacion Deportiva     Municipal     [RUNNING]                   |
-|    006  CNN ANIEI 2024            UAEH          [PUBLISHED]                 |
-|                                                                             |
-|  $ cat config/disponibilidad.json                                           |
-|    { "freelance": true, "remoto": true, "respuesta": "< 24h" }             |
-|                                                                             |
-|  $                                                                          |
-+-----------------------------------------------------------------------------+
+// ============================================================= haz117@dev //
+// [o] [o] [o]   ~/sistemas-municipales   [main]                        bash //
+// ================================================================== bash  //
+
+  $ cat /etc/perfil
+      Full Stack Developer · UAEH 2025 · Ixmiquilpan, Hidalgo
+      Operador de Sistemas · Presidencia Municipal de Ixmiquilpan
+
+  $ uptime
+      2+ anos construyendo software en produccion real · 71+ usuarios
+
+  $ cat /proc/reconocimientos
+      [AWARD]  Premio OX 2026 · Editorial OX Internacional · Espana
+      [CERT]   AWS Certified Cloud Practitioner — CLF-C02
+      [PUB]    ANIEI 2024 · Ponente Nacional · Guadalajara
+      [EDU]    UAEH · Ing. en Desarrollo de Software · 2025
+
+  $ ps aux --filter=RUNNING
+
+      PID   PROCESO                  USUARIOS       STATUS
+      ---   ---------------------    -----------    -----------
+      001   TodoApp Municipal        71+ activos    [ RUNNING ]
+      002   Gobierno Ixmiquilpan     Premio OX      [ RUNNING ]
+      003   BMW Ixmiquilpan 2026     INT'L          [ RUNNING ]
+      004   Luminarias GPS           Municipal      [ RUNNING ]
+      005   Reservacion Deportiva    Municipal      [ RUNNING ]
+      006   CNN ANIEI 2024           UAEH           [PUBLISHED ]
+
+  $ cat config/disponibilidad.json
+      { "freelance": true, "remoto": true, "respuesta": "< 24h" }
+
+  $ _
+
+// ======================================================================== //
 ```
 
 <br/>
@@ -157,14 +158,14 @@
 ```
 $ skill-meter --show-all
 
-  JavaScript   ████████████████████  100%  ES2024 · principal lenguaje
-  React / RN   █████████████████░░░   85%  4 apps municipales en prod
-  Firebase     █████████████████░░░   85%  Realtime DB · Firestore · FCM
-  React Web    ████████████████░░░░   80%  Gobierno · BMW · Portfolio
-  Vue 3        ███████████████░░░░░   75%  Plataformas municipales
-  Python       █████████████░░░░░░░   65%  ML · scripts · análisis
-  TensorFlow   ████████████░░░░░░░░   60%  CNN · Keras · investigación
-  AWS          ████████░░░░░░░░░░░░   40%  CLF-C02 Certified
+  JavaScript   ####################  100%   ES2024 · lenguaje principal
+  React / RN   #################---   85%   4 apps municipales en prod
+  Firebase     #################---   85%   Realtime DB · Firestore · FCM
+  React Web    ################----   80%   Gobierno · BMW · Portfolio
+  Vue 3        ###############-----   75%   Plataformas municipales
+  Python       #############-------   65%   ML · scripts · analisis
+  TensorFlow   ############--------   60%   CNN · Keras · investigacion
+  AWS          ########------------   40%   CLF-C02 Certified
 ```
 
 <br/>
