@@ -61,36 +61,39 @@
 <br/>
 
 ```
-┌─ haz117@dev ─ ~/sistemas-municipales ─ [main] ──────────────────────────────┐
-│                                                                               │
-│  $ cat /etc/perfil                                                            │
-│  > Full Stack Developer · UAEH 2025 · Ixmiquilpan, Hidalgo                  │
-│  > Operador de Sistemas · Presidencia Municipal                               │
-│                                                                               │
-│  $ uptime                                                                     │
-│  > 2+ años construyendo software en producción real                          │
-│                                                                               │
-│  $ cat /proc/reconocimientos                                                  │
-│  > ★  Premio OX 2026 · Editorial OX Internacional · España                  │
-│  > ✓  AWS Certified Cloud Practitioner — CLF-C02                             │
-│  > ✓  ANIEI 2024 · Ponente Nacional · Guadalajara                            │
-│  > ✓  UAEH · Ing. en Desarrollo de Software                                  │
-│                                                                               │
-│  $ ps aux --filter=RUNNING                                                    │
-│                                                                               │
-│  PID   PROCESO                   USUARIOS    STATUS                          │
-│  ───   ───────────────────────── ──────────  ────────────                    │
-│  001   TodoApp Municipal         71+ activos ● RUNNING                       │
-│  002   Gobierno Ixmiquilpan      Premio OX   ● RUNNING                       │
-│  003   BMW Ixmiquilpan 2026      INT'L       ● RUNNING                       │
-│  004   Luminarias GPS            Municipal   ● RUNNING                       │
-│  005   Reservación Deportiva     Municipal   ● RUNNING                       │
-│  006   CNN ANIEI 2024            UAEH        ○ PUBLISHED                     │
-│                                                                               │
-│  $ cat config/disponibilidad.json                                             │
-│  > { "freelance": true, "remoto": true, "respuesta": "< 24h" }               │
-│                                                                               │
-└───────────────────────────────────────────────────────────────────────────█──┘
+╭─────────────────────────────────────────────────────────────────────────────╮
+│  ○ ○ ○   haz117@dev  —  ~/sistemas-municipales  —  bash                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│  $ cat /etc/perfil                                                           │
+│    Full Stack Developer · UAEH 2025 · Ixmiquilpan, Hidalgo                 │
+│    Operador de Sistemas · Presidencia Municipal                              │
+│                                                                              │
+│  $ uptime                                                                    │
+│    2+ años construyendo software en producción real                         │
+│                                                                              │
+│  $ cat /proc/reconocimientos                                                 │
+│    ★  Premio OX 2026 · Editorial OX Internacional · España                 │
+│    ✓  AWS Certified Cloud Practitioner — CLF-C02                            │
+│    ✓  ANIEI 2024 · Ponente Nacional · Guadalajara                           │
+│    ✓  UAEH · Ing. en Desarrollo de Software · 2025                         │
+│                                                                              │
+│  $ ps aux --filter=RUNNING                                                   │
+│                                                                              │
+│    PID   PROCESO                    USUARIOS     STATUS                     │
+│    ───   ──────────────────────     ───────────  ──────────────             │
+│    001   TodoApp Municipal          71+ activos  ● RUNNING                  │
+│    002   Gobierno Ixmiquilpan       Premio OX    ● RUNNING                  │
+│    003   BMW Ixmiquilpan 2026       INT'L        ● RUNNING                  │
+│    004   Luminarias GPS             Municipal    ● RUNNING                  │
+│    005   Reservación Deportiva      Municipal    ● RUNNING                  │
+│    006   CNN ANIEI 2024             UAEH         ○ PUBLISHED                │
+│                                                                              │
+│  $ cat config/disponibilidad.json                                            │
+│    { "freelance": true, "remoto": true, "respuesta": "< 24h" }              │
+│                                                                              │
+│  $█                                                                          │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
 <br/>
@@ -98,6 +101,28 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a2110&height=3"/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8ab52a&height=3" width="100%"/>
+</picture>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/─────────────────────────────────────────────_ACTUALMENTE_─────────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
+
+<br/>
+
+![](https://img.shields.io/badge/🔨_CONSTRUYENDO-Sistemas_para_Presidencia_Municipal-6b8e23?style=for-the-badge&labelColor=141a0b)
+![](https://img.shields.io/badge/☁️_ESTUDIANDO-Arquitecturas_Cloud_·_DevOps-8ab52a?style=for-the-badge&labelColor=141a0b)
+![](https://img.shields.io/badge/🎯_META_2026-AWS_Solutions_Architect-6b8e23?style=for-the-badge&labelColor=141a0b)
+![](https://img.shields.io/badge/📍_UBICACIÓN-Ixmiquilpan,_Hidalgo_·_México-8ab52a?style=for-the-badge&labelColor=141a0b)
+
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=28351a&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6b8e23&height=3" width="100%"/>
 </picture>
 
 <br/>
