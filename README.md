@@ -16,7 +16,7 @@
 
 # Hazel Jared Almaraz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=800&color=8AB52A&vCenter=true&width=540&lines=Full+Stack+Developer+·+UAEH+2025+·+Ixmiquilpan;6+sistemas+en+producción+·+71%2B+usuarios+activos;Premio+OX+2026+·+AWS+Certified+·+ANIEI+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=800&color=8AB52A&vCenter=true&width=540&lines=Full+Stack+Developer+·+UAEH+2025+·+Ixmiquilpan;8+sistemas+en+producción+·+71%2B+usuarios+activos;Premio+OX+2026+·+AWS+Certified+·+ANIEI+2024)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-git--two--xi.vercel.app-8ab52a?style=flat-square&logo=vercel&logoColor=white&labelColor=0f1309)](https://git-two-xi.vercel.app)
 [![Email](https://img.shields.io/badge/hazelalmaraz91@gmail.com-6b8e23?style=flat-square&logo=gmail&logoColor=white&labelColor=0f1309)](mailto:hazelalmaraz91@gmail.com)
@@ -43,7 +43,7 @@
 
 <table>
 <tr>
-<td align="center" width="160"><img src="https://img.shields.io/badge/6-SISTEMAS-141a0b?style=for-the-badge&labelColor=6b8e23&color=141a0b"/><br/><sub>en producción real</sub></td>
+<td align="center" width="160"><img src="https://img.shields.io/badge/8-SISTEMAS-141a0b?style=for-the-badge&labelColor=6b8e23&color=141a0b"/><br/><sub>en producción real</sub></td>
 <td align="center" width="160"><img src="https://img.shields.io/badge/71%2B-USUARIOS-141a0b?style=for-the-badge&labelColor=8ab52a&color=141a0b"/><br/><sub>activos municipales</sub></td>
 <td align="center" width="160"><img src="https://img.shields.io/badge/★-OX_2026-141a0b?style=for-the-badge&labelColor=6b8e23&color=141a0b"/><br/><sub>Premio Internacional</sub></td>
 <td align="center" width="160"><img src="https://img.shields.io/badge/AWS-CERTIFIED-141a0b?style=for-the-badge&labelColor=8ab52a&color=141a0b"/><br/><sub>CLF-C02</sub></td>
@@ -60,41 +60,47 @@
 
 <br/>
 
-```
-// ============================================================= haz117@dev //
-// [o] [o] [o]   ~/sistemas-municipales   [main]                        bash //
-// ================================================================== bash  //
+```bash
+# ================================================================ haz117@dev
+# [o] [o] [o]   ~/sistemas-municipales   [main]                          bash
+# ====================================================================== bash
 
-  $ cat /etc/perfil
-      Full Stack Developer · UAEH 2025 · Ixmiquilpan, Hidalgo
-      Operador de Sistemas · Presidencia Municipal de Ixmiquilpan
+$ cat /etc/perfil
+    Full Stack Developer · UAEH 2025 · Ixmiquilpan, Hidalgo
+    Operador de Sistemas · Presidencia Municipal de Ixmiquilpan
 
-  $ uptime
-      2+ anos construyendo software en produccion real · 71+ usuarios
+$ uptime
+    2+ anos construyendo software en produccion real · 71+ usuarios activos
 
-  $ cat /proc/reconocimientos
-      [AWARD]  Premio OX 2026 · Editorial OX Internacional · Espana
-      [CERT]   AWS Certified Cloud Practitioner — CLF-C02
-      [PUB]    ANIEI 2024 · Ponente Nacional · Guadalajara
-      [EDU]    UAEH · Ing. en Desarrollo de Software · 2025
+$ cat /proc/reconocimientos
+    [AWARD]  Premio OX 2026 · Editorial OX Internacional · Espana
+    [CERT]   AWS Certified Cloud Practitioner — CLF-C02
+    [PAPER]  Ponente ANIEI Nacional 2024 · Guadalajara · coautoria UAEH
+    [EDU]    UAEH · Ing. en Desarrollo de Software · 2025
 
-  $ ps aux --filter=RUNNING
+$ ls ./sistemas-produccion/
+    01_TodoApp/          →  React Native + Firebase        · 71 usuarios activos
+    02_BMW_Ixmiquilpan/  →  React 19 + Firebase            · Live
+    03_Lumixmi/          →  RN + Next.js 15 + Supabase     · App movil + Panel web
+    04_IxmiSport/        →  Vue 3 + Firebase               · Live
+    05_Gob_Ixmiquilpan/  →  React + SEO                    · Premio OX 2026
+    06_IxmiCheck/        →  React 19 + Firebase            · Produccion · Confidencial
+    07_Ixmiscope/        →  React 19 + Supabase + Leaflet  · PWA catastro GPS
+    08_CNN_ANIEI/        →  Python + TensorFlow            · Paper publicado
 
-      PID   PROCESO                  USUARIOS       STATUS
-      ---   ---------------------    -----------    -----------
-      001   TodoApp Municipal        71+ activos    [ RUNNING ]
-      002   Gobierno Ixmiquilpan     Premio OX      [ RUNNING ]
-      003   BMW Ixmiquilpan 2026     INT'L          [ RUNNING ]
-      004   Luminarias GPS           Municipal      [ RUNNING ]
-      005   Reservacion Deportiva    Municipal      [ RUNNING ]
-      006   CNN ANIEI 2024           UAEH           [PUBLISHED ]
+$ cat /proc/stack
+    [MOBILE]   React Native · Expo · Firebase · Google Maps
+    [WEB]      React 19 · Vue 3 · Next.js 15 · TailwindCSS · Framer Motion
+    [BACKEND]  Firebase · Supabase · Node.js · Python
+    [ML]       TensorFlow · Keras · scikit-learn · pandas
+    [INFRA]    AWS · Vercel · Git · PWA · Offline-first
 
-  $ cat config/disponibilidad.json
-      { "freelance": true, "remoto": true, "respuesta": "< 24h" }
+$ echo $STATUS
+    Disponible para proyectos · hazelalmaraz91@gmail.com
 
-  $ _
+$ _
 
-// ======================================================================== //
+# ============================================================================
 ```
 
 <br/>
@@ -176,20 +182,24 @@ $ skill-meter --show-all
 
 ![React Native](https://img.shields.io/badge/React_Native-0f1309?style=for-the-badge&logo=react&logoColor=8ab52a&labelColor=141a0b)
 ![React 19](https://img.shields.io/badge/React_19-0f1309?style=for-the-badge&logo=react&logoColor=6b8e23&labelColor=141a0b)
-![Vue 3](https://img.shields.io/badge/Vue_3-0f1309?style=for-the-badge&logo=vuedotjs&logoColor=8ab52a&labelColor=141a0b)
+![Next.js 15](https://img.shields.io/badge/Next.js_15-0f1309?style=for-the-badge&logo=nextdotjs&logoColor=8ab52a&labelColor=141a0b)
+![Vue 3](https://img.shields.io/badge/Vue_3-0f1309?style=for-the-badge&logo=vuedotjs&logoColor=6b8e23&labelColor=141a0b)
 ![Expo](https://img.shields.io/badge/Expo-0f1309?style=for-the-badge&logo=expo&logoColor=ede8dc&labelColor=141a0b)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f1309?style=for-the-badge&logo=tailwindcss&logoColor=6b8e23&labelColor=141a0b)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0f1309?style=for-the-badge&logo=framer&logoColor=8ab52a&labelColor=141a0b)
-![Vite](https://img.shields.io/badge/Vite-0f1309?style=for-the-badge&logo=vite&logoColor=6b8e23&labelColor=141a0b)
-![Firebase](https://img.shields.io/badge/Firebase-0f1309?style=for-the-badge&logo=firebase&logoColor=8ab52a&labelColor=141a0b)
-![AWS](https://img.shields.io/badge/AWS_Certified-0f1309?style=for-the-badge&logo=amazonwebservices&logoColor=6b8e23&labelColor=141a0b)
-![Google Maps](https://img.shields.io/badge/Google_Maps_API-0f1309?style=for-the-badge&logo=googlemaps&logoColor=8ab52a&labelColor=141a0b)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f1309?style=for-the-badge&logo=tailwindcss&logoColor=8ab52a&labelColor=141a0b)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0f1309?style=for-the-badge&logo=framer&logoColor=6b8e23&labelColor=141a0b)
+![Vite](https://img.shields.io/badge/Vite-0f1309?style=for-the-badge&logo=vite&logoColor=8ab52a&labelColor=141a0b)
+![Firebase](https://img.shields.io/badge/Firebase-0f1309?style=for-the-badge&logo=firebase&logoColor=6b8e23&labelColor=141a0b)
+![Supabase](https://img.shields.io/badge/Supabase-0f1309?style=for-the-badge&logo=supabase&logoColor=8ab52a&labelColor=141a0b)
+![Node.js](https://img.shields.io/badge/Node.js-0f1309?style=for-the-badge&logo=nodedotjs&logoColor=6b8e23&labelColor=141a0b)
+![AWS](https://img.shields.io/badge/AWS_Certified-0f1309?style=for-the-badge&logo=amazonwebservices&logoColor=8ab52a&labelColor=141a0b)
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-0f1309?style=for-the-badge&logo=googlemaps&logoColor=6b8e23&labelColor=141a0b)
+![Leaflet](https://img.shields.io/badge/Leaflet-0f1309?style=for-the-badge&logo=leaflet&logoColor=8ab52a&labelColor=141a0b)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f1309?style=for-the-badge&logo=githubactions&logoColor=6b8e23&labelColor=141a0b)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0f1309?style=for-the-badge&logo=tensorflow&logoColor=8ab52a&labelColor=141a0b)
 ![Keras](https://img.shields.io/badge/Keras-0f1309?style=for-the-badge&logo=keras&logoColor=6b8e23&labelColor=141a0b)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0f1309?style=for-the-badge&logo=scikitlearn&logoColor=8ab52a&labelColor=141a0b)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES2024-0f1309?style=for-the-badge&logo=javascript&logoColor=8ab52a&labelColor=141a0b)
-![Python](https://img.shields.io/badge/Python-0f1309?style=for-the-badge&logo=python&logoColor=6b8e23&labelColor=141a0b)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES2024-0f1309?style=for-the-badge&logo=javascript&logoColor=6b8e23&labelColor=141a0b)
+![Python](https://img.shields.io/badge/Python-0f1309?style=for-the-badge&logo=python&logoColor=8ab52a&labelColor=141a0b)
 
 </div>
 
@@ -223,20 +233,6 @@ Gestión de tareas municipales · **Zempoala, Hidalgo**
 </td>
 <td width="50%" valign="top">
 
-**Gobierno de Ixmiquilpan — Sitio Oficial**
-`React` `Tailwind` `JavaScript` `SEO`
-![](https://img.shields.io/badge/★_PREMIO_OX_2026-6b8e23?style=flat-square)
-
-Sitio oficial · **Premio OX Internacional · España**
-- Categoría Gobierno · Reconocimiento internacional
-
-[![ver sitio →](https://img.shields.io/badge/ver_sitio_→-8ab52a?style=flat-square&logo=googlechrome&logoColor=0f1309)](https://gobiernoixmiquilpan.gob.mx/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **BMW Ixmiquilpan 2026 — XV Convención**
 `React 19` `Vite` `Firebase` `Framer Motion`
 ![](https://img.shields.io/badge/●_LIVE-6b8e23?style=flat-square)
@@ -247,19 +243,68 @@ Sitio oficial · **Convención Internacional BMW**
 [![demo →](https://img.shields.io/badge/demo_→-8ab52a?style=flat-square&logo=vercel&logoColor=0f1309)](https://bmwam.vercel.app/)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-**Luminarias GPS — Offline-First**
-`React Native` `Firebase` `Google Maps`
+**Lumixmi — App Móvil + Panel Web**
+`React Native` `Next.js 15` `Supabase` `Expo`
 ![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
 
-Levantamiento de campo · luminarias municipales
-- GPS automático · Funciona **sin señal**
-- Sync automático al recuperar conexión
+Gestión de luminarias · app móvil + panel web integrado
+- GPS automático · Funciona **sin señal** · Offline-first
+- Sync automático · Dashboard administrativo
+
+</td>
+<td width="50%" valign="top">
+
+**IxmiSport — Reservación Deportiva**
+`Vue 3` `Firestore` `Tailwind`
+![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
+
+Sistema web municipal · espacios deportivos
+- Calendario interactivo · Disponibilidad real-time
+- Panel de administración completo
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+**Gobierno de Ixmiquilpan — Sitio Oficial**
+`React` `Tailwind` `JavaScript` `SEO`
+![](https://img.shields.io/badge/★_PREMIO_OX_2026-6b8e23?style=flat-square)
+
+Sitio oficial · **Premio OX Internacional · España**
+- Categoría Gobierno · Reconocimiento internacional
+
+[![ver sitio →](https://img.shields.io/badge/ver_sitio_→-8ab52a?style=flat-square&logo=googlechrome&logoColor=0f1309)](https://gobiernoixmiquilpan.gob.mx/)
+
+</td>
+<td width="50%" valign="top">
+
+**IxmiCheck — Control de Asistencia**
+`React 19` `Firebase` `Tailwind`
+![](https://img.shields.io/badge/●_PRODUCCIÓN_·_CONFIDENCIAL-6b8e23?style=flat-square)
+
+Sistema de asistencia municipal · producción real
+- Control de personal · Reportes automatizados
+- Integración con nómina
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Ixmiscope — Catastro GPS**
+`React 19` `Supabase` `Leaflet` `PWA`
+![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
+
+PWA de catastro municipal · levantamiento GPS
+- Mapas interactivos con Leaflet · Funciona offline
+- Geolocalización precisa · Sync con Supabase
+
+</td>
 <td width="50%" valign="top">
 
 **Clasificación CNN — ANIEI 2024**
@@ -268,17 +313,7 @@ Levantamiento de campo · luminarias municipales
 
 XXXIII Reunión Nacional ANIEI · Guadalajara
 - Predicción adaptabilidad estudiantil · Coautoría UAEH
-
-</td>
-<td width="50%" valign="top">
-
-**Reservación Deportiva — Web**
-`Vue 3` `Firestore` `Tailwind`
-![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
-
-Sistema web municipal · espacios deportivos
-- Calendario interactivo · Disponibilidad real-time
-- Panel de administración completo
+- Paper publicado · Reconocimiento nacional
 
 </td>
 </tr>
