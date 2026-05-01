@@ -114,28 +114,6 @@ $ _
 
 <div align="center">
 
-![](https://img.shields.io/badge/─────────────────────────────────────────────_ACTUALMENTE_─────────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
-
-<br/>
-
-![](https://img.shields.io/badge/CONSTRUYENDO-Sistemas_Presidencia_Municipal-6b8e23?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=141a0b)
-![](https://img.shields.io/badge/APRENDIENDO-Cloud_Architecture_·_DevOps-8ab52a?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=141a0b)
-![](https://img.shields.io/badge/META_2026-AWS_Solutions_Architect-6b8e23?style=for-the-badge&logo=amazondynamodb&logoColor=white&labelColor=141a0b)
-![](https://img.shields.io/badge/UBICACION-Ixmiquilpan,_Hidalgo_·_Mexico-8ab52a?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=141a0b)
-
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=28351a&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6b8e23&height=3" width="100%"/>
-</picture>
-
-<br/>
-
-<div align="center">
-
 ![](https://img.shields.io/badge/────────────────────────────────────────_SISTEMAS_EN_VIVO_────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
 
 <br/>
@@ -151,63 +129,6 @@ $ _
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=28351a&height=3"/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6b8e23&height=3" width="100%"/>
-</picture>
-
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/───────────────────────────────────────────────_SKILL_LEVEL_───────────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
-
-</div>
-
-```
-$ skill-meter --show-all
-
-  JavaScript   ####################  100%   ES2024 · lenguaje principal
-  React / RN   #################---   85%   4 apps municipales en prod
-  Firebase     #################---   85%   Realtime DB · Firestore · FCM
-  React Web    ################----   80%   Gobierno · BMW · Portfolio
-  Vue 3        ###############-----   75%   Plataformas municipales
-  Python       #############-------   65%   ML · scripts · analisis
-  TensorFlow   ############--------   60%   CNN · Keras · investigacion
-  AWS          ########------------   40%   CLF-C02 Certified
-```
-
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/────────────────────────────────────────────────_STACK_────────────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
-
-![React Native](https://img.shields.io/badge/React_Native-0f1309?style=for-the-badge&logo=react&logoColor=8ab52a&labelColor=141a0b)
-![React 19](https://img.shields.io/badge/React_19-0f1309?style=for-the-badge&logo=react&logoColor=6b8e23&labelColor=141a0b)
-![Next.js 15](https://img.shields.io/badge/Next.js_15-0f1309?style=for-the-badge&logo=nextdotjs&logoColor=8ab52a&labelColor=141a0b)
-![Vue 3](https://img.shields.io/badge/Vue_3-0f1309?style=for-the-badge&logo=vuedotjs&logoColor=6b8e23&labelColor=141a0b)
-![Expo](https://img.shields.io/badge/Expo-0f1309?style=for-the-badge&logo=expo&logoColor=ede8dc&labelColor=141a0b)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f1309?style=for-the-badge&logo=tailwindcss&logoColor=8ab52a&labelColor=141a0b)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0f1309?style=for-the-badge&logo=framer&logoColor=6b8e23&labelColor=141a0b)
-![Vite](https://img.shields.io/badge/Vite-0f1309?style=for-the-badge&logo=vite&logoColor=8ab52a&labelColor=141a0b)
-![Firebase](https://img.shields.io/badge/Firebase-0f1309?style=for-the-badge&logo=firebase&logoColor=6b8e23&labelColor=141a0b)
-![Supabase](https://img.shields.io/badge/Supabase-0f1309?style=for-the-badge&logo=supabase&logoColor=8ab52a&labelColor=141a0b)
-![Node.js](https://img.shields.io/badge/Node.js-0f1309?style=for-the-badge&logo=nodedotjs&logoColor=6b8e23&labelColor=141a0b)
-![AWS](https://img.shields.io/badge/AWS_Certified-0f1309?style=for-the-badge&logo=amazonwebservices&logoColor=8ab52a&labelColor=141a0b)
-![Google Maps](https://img.shields.io/badge/Google_Maps_API-0f1309?style=for-the-badge&logo=googlemaps&logoColor=6b8e23&labelColor=141a0b)
-![Leaflet](https://img.shields.io/badge/Leaflet-0f1309?style=for-the-badge&logo=leaflet&logoColor=8ab52a&labelColor=141a0b)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f1309?style=for-the-badge&logo=githubactions&logoColor=6b8e23&labelColor=141a0b)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0f1309?style=for-the-badge&logo=tensorflow&logoColor=8ab52a&labelColor=141a0b)
-![Keras](https://img.shields.io/badge/Keras-0f1309?style=for-the-badge&logo=keras&logoColor=6b8e23&labelColor=141a0b)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0f1309?style=for-the-badge&logo=scikitlearn&logoColor=8ab52a&labelColor=141a0b)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES2024-0f1309?style=for-the-badge&logo=javascript&logoColor=6b8e23&labelColor=141a0b)
-![Python](https://img.shields.io/badge/Python-0f1309?style=for-the-badge&logo=python&logoColor=8ab52a&labelColor=141a0b)
-
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a2110&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8ab52a&height=3" width="100%"/>
 </picture>
 
 <br/>
@@ -395,9 +316,6 @@ XXXIII Reunión Nacional ANIEI · Guadalajara
 
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-CLF--C02_Certified-8ab52a?style=for-the-badge&logo=amazonwebservices&logoColor=0f1309&labelColor=141a0b)
-![OX](https://img.shields.io/badge/Editorial_OX_España-Premio_Internacional_2026-6b8e23?style=for-the-badge&labelColor=141a0b)
-![ANIEI](https://img.shields.io/badge/ANIEI_2024-Ponente_Nacional_·_Guadalajara-8ab52a?style=for-the-badge&labelColor=141a0b)
 
 </div>
 
