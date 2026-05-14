@@ -16,7 +16,7 @@
 
 # Hazel Jared Almaraz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=800&color=8AB52A&vCenter=true&width=560&lines=Software+Engineer+·+UAEH+2025+·+Ixmiquilpan;8+sistemas+en+producción+real+·+gobierno+municipal;GIS+·+Offline-first+·+Mobile+·+Full+Stack;Premio+OX+2026+·+AWS+Certified+·+ANIEI+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=8AB52A&vCenter=true&width=560&lines=Software+Engineer+·+8+sistemas+en+producción+real;GIS+·+Offline-first+·+Mobile+·+Full+Stack)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-git--two--xi.vercel.app-8ab52a?style=flat-square&logo=vercel&logoColor=white&labelColor=0f1309)](https://git-two-xi.vercel.app)
 [![Email](https://img.shields.io/badge/hazelalmaraz91@gmail.com-6b8e23?style=flat-square&logo=gmail&logoColor=white&labelColor=0f1309)](mailto:hazelalmaraz91@gmail.com)
@@ -76,6 +76,16 @@ $ cat /proc/reconocimientos
     [CERT]   AWS Certified Cloud Practitioner — CLF-C02
     [PAPER]  Ponente ANIEI Nacional 2024 · Guadalajara · coautoria UAEH
     [EDU]    UAEH · Ing. en Desarrollo de Software · 2025
+
+$ ls ./sistemas-produccion/
+    [FEATURED]  Catdata/     →  React 19 + Supabase + Leaflet  · PWA catastro GPS
+    [FEATURED]  TodoApp/     →  React Native + Firebase         · 71 usuarios activos
+    [FEATURED]  Lumixmi/     →  RN + Next.js 15 + Supabase     · App movil + Panel web
+    [FEATURED]  GobIxmi/     →  React + SEO                    · Premio OX 2026
+    [OTHER]     BMW/         →  React 19 + Firebase            · Live
+    [OTHER]     IxmiSport/   →  Vue 3 + Firebase               · Live
+    [OTHER]     IxmiCheck/   →  React 19 + Firebase            · Confidencial
+    [OTHER]     CNN_ANIEI/   →  Python + TensorFlow            · Paper publicado
 
 $ cat /proc/engineering-focus
     [GIS]      Sistemas geoespaciales offline-first · GPS/UTM · DXF/GeoJSON
@@ -189,54 +199,16 @@ Sitio oficial municipio · **Premio OX Internacional · España**
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**IxmiSport — Reservación Deportiva**
-`Vue 3` `Firestore` `Tailwind`
-![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
+| Proyecto | Stack | Estado |
+|:---|:---|:---:|
+| **IxmiSport** — Reservación de espacios deportivos | `Vue 3` `Firestore` `Tailwind` | ![](https://img.shields.io/badge/●_LIVE-6b8e23?style=flat-square) |
+| **IxmiCheck** — Control de asistencia municipal | `React 19` `Firebase` `Tailwind` | ![](https://img.shields.io/badge/●_CONFIDENCIAL-6b8e23?style=flat-square) |
+| **BMW Ixmiquilpan 2026** — XV Convención Internacional · [demo →](https://bmwam.vercel.app/) | `React 19` `Vite` `Framer Motion` | ![](https://img.shields.io/badge/●_LIVE-6b8e23?style=flat-square) |
+| **CNN ANIEI 2024** — Clasificación adaptabilidad estudiantil · paper publicado | `Python` `TensorFlow` `Keras` | ![](https://img.shields.io/badge/PONENTE-6b8e23?style=flat-square) |
 
-Sistema web municipal · espacios deportivos
-- Calendario interactivo · disponibilidad real-time · panel de administración
-
-</td>
-<td width="50%" valign="top">
-
-**IxmiCheck — Control de Asistencia**
-`React 19` `Firebase` `Tailwind`
-![](https://img.shields.io/badge/●_PRODUCCIÓN_·_CONFIDENCIAL-6b8e23?style=flat-square)
-
-Asistencia municipal · producción real
-- Control de personal · reportes automatizados · integración con nómina
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**BMW Ixmiquilpan 2026 — XV Convención**
-`React 19` `Vite` `Firebase` `Framer Motion`
-![](https://img.shields.io/badge/●_LIVE-6b8e23?style=flat-square)
-
-Sitio oficial · Convención Internacional BMW
-- Registro · códigos únicos · PDF con QR
-
-[![demo →](https://img.shields.io/badge/demo_→-8ab52a?style=flat-square&logo=vercel&logoColor=0f1309)](https://bmwam.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-**Clasificación CNN — ANIEI 2024**
-`Python` `TensorFlow` `Keras` `Random Forest`
-![](https://img.shields.io/badge/PONENTE_NACIONAL-6b8e23?style=flat-square)
-
-XXXIII Reunión Nacional ANIEI · Guadalajara
-- Predicción adaptabilidad estudiantil · coautoría UAEH · paper publicado
-
-</td>
-</tr>
-</table>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=28351a&height=3"/>
@@ -285,6 +257,30 @@ XXXIII Reunión Nacional ANIEI · Guadalajara
 | `✓` | `2024` | Publicación ANIEI: *"Modelos CNN para Clasificación"* |
 | `✓` | `2024` | Subcampeón Ajedrez Universitario — UAEH |
 | `✓` | `2020–25` | Lic. Ingeniería en Desarrollo de Software — UAEH |
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=28351a&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6b8e23&height=3" width="100%"/>
+</picture>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/──────────────────────────────────────────────_CONTACTO_──────────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
+
+<br/>
+
+**Disponible para proyectos freelance · posiciones Full Stack · roles en gobierno o GIS**
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/hazelalmaraz91@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f1309)](mailto:hazelalmaraz91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hazel--almaraz--martinez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f1309)](https://linkedin.com/in/hazel-almaraz-martinez)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B52_773_113_5626-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0f1309)](https://wa.me/527731135626)
+[![Portfolio](https://img.shields.io/badge/Portfolio-git--two--xi.vercel.app-8ab52a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f1309)](https://git-two-xi.vercel.app)
 
 <br/>
 
