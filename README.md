@@ -16,7 +16,7 @@
 
 # Hazel Jared Almaraz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=800&color=8AB52A&vCenter=true&width=540&lines=Full+Stack+Developer+·+UAEH+2025+·+Ixmiquilpan;8+sistemas+en+producción+·+71%2B+usuarios+activos;Premio+OX+2026+·+AWS+Certified+·+ANIEI+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=800&color=8AB52A&vCenter=true&width=560&lines=Software+Engineer+·+UAEH+2025+·+Ixmiquilpan;8+sistemas+en+producción+real+·+gobierno+municipal;GIS+·+Offline-first+·+Mobile+·+Full+Stack;Premio+OX+2026+·+AWS+Certified+·+ANIEI+2024)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-git--two--xi.vercel.app-8ab52a?style=flat-square&logo=vercel&logoColor=white&labelColor=0f1309)](https://git-two-xi.vercel.app)
 [![Email](https://img.shields.io/badge/hazelalmaraz91@gmail.com-6b8e23?style=flat-square&logo=gmail&logoColor=white&labelColor=0f1309)](mailto:hazelalmaraz91@gmail.com)
@@ -30,7 +30,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Haz117&style=for-the-badge&color=6b8e23&labelColor=0f1309&label=VISITAS)
-![GitHub followers](https://img.shields.io/github/followers/Haz117?style=for-the-badge&color=8ab52a&labelColor=0f1309&logo=github&label=SEGUIDORES)
 
 </div>
 
@@ -66,11 +65,11 @@
 # ====================================================================== bash
 
 $ cat /etc/perfil
-    Full Stack Developer · UAEH 2025 · Ixmiquilpan, Hidalgo
+    Software Engineer · UAEH 2025 · Ixmiquilpan, Hidalgo
     Operador de Sistemas · Presidencia Municipal de Ixmiquilpan
 
 $ uptime
-    2+ anos construyendo software en produccion real · 71+ usuarios activos
+    2+ anos construyendo software en produccion real para gobierno municipal
 
 $ cat /proc/reconocimientos
     [AWARD]  Premio OX 2026 · Editorial OX Internacional · Espana
@@ -78,22 +77,19 @@ $ cat /proc/reconocimientos
     [PAPER]  Ponente ANIEI Nacional 2024 · Guadalajara · coautoria UAEH
     [EDU]    UAEH · Ing. en Desarrollo de Software · 2025
 
-$ ls ./sistemas-produccion/
-    01_TodoApp/          →  React Native + Firebase        · 71 usuarios activos
-    02_BMW_Ixmiquilpan/  →  React 19 + Firebase            · Live
-    03_Lumixmi/          →  RN + Next.js 15 + Supabase     · App movil + Panel web
-    04_IxmiSport/        →  Vue 3 + Firebase               · Live
-    05_Gob_Ixmiquilpan/  →  React + SEO                    · Premio OX 2026
-    06_IxmiCheck/        →  React 19 + Firebase            · Produccion · Confidencial
-    07_Ixmiscope/        →  React 19 + Supabase + Leaflet  · PWA catastro GPS
-    08_CNN_ANIEI/        →  Python + TensorFlow            · Paper publicado
+$ cat /proc/engineering-focus
+    [GIS]      Sistemas geoespaciales offline-first · GPS/UTM · DXF/GeoJSON
+    [GOV]      Digitalizacion gubernamental · 8 sistemas · usuarios reales
+    [MOBILE]   React Native con sync diferida · entornos baja conectividad
+    [REALTIME] Firestore + Supabase Realtime · push FCM · multi-tenant RLS
+    [PWA]      Offline-first · Service Workers · arquitectura sync-on-connect
 
 $ cat /proc/stack
     [MOBILE]   React Native · Expo · Firebase · Google Maps
     [WEB]      React 19 · Vue 3 · Next.js 15 · TailwindCSS · Framer Motion
     [BACKEND]  Firebase · Supabase · Node.js · Python
     [ML]       TensorFlow · Keras · scikit-learn · pandas
-    [INFRA]    AWS · Vercel · Git · PWA · Offline-first
+    [INFRA]    AWS · Vercel · Git · PWA · Supabase RLS
 
 $ echo $STATUS
     Disponible para proyectos · hazelalmaraz91@gmail.com
@@ -106,27 +102,6 @@ $ _
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a2110&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8ab52a&height=3" width="100%"/>
-</picture>
-
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/────────────────────────────────────────_SISTEMAS_EN_VIVO_────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
-
-<br/>
-
-![](https://img.shields.io/website?url=https%3A%2F%2Fgobiernoixmiquilpan.gob.mx&up_message=ONLINE&down_message=OFFLINE&up_color=6b8e23&down_color=red&label=Gobierno+Ixmiquilpan&style=for-the-badge&labelColor=141a0b)
-![](https://img.shields.io/website?url=https%3A%2F%2Fbmwam.vercel.app&up_message=ONLINE&down_message=OFFLINE&up_color=8ab52a&down_color=red&label=BMW+Ixmiquilpan+2026&style=for-the-badge&labelColor=141a0b)
-![](https://img.shields.io/website?url=https%3A%2F%2Fgit-two-xi.vercel.app&up_message=ONLINE&down_message=OFFLINE&up_color=6b8e23&down_color=red&label=Portfolio&style=for-the-badge&labelColor=141a0b)
-
-</div>
-
-<br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=28351a&height=3"/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6b8e23&height=3" width="100%"/>
 </picture>
@@ -135,33 +110,41 @@ $ _
 
 <div align="center">
 
-![](https://img.shields.io/badge/────────────────────────────────────────_PROYECTOS_EN_PRODUCCIÓN_────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
+![](https://img.shields.io/badge/──────────────────────────────────────_FEATURED_ENGINEERING_WORK_──────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
+
+<sub>Proyectos de mayor complejidad técnica y mayor impacto operacional</sub>
 
 </div>
 
+<br/>
+
 <table>
 <tr>
+<td width="50%" valign="top">
+
+**Ixmiscope — Catastro GPS Municipal**
+`React 19` `Supabase` `Leaflet` `PWA`
+![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
+
+PWA de catastro para levantamiento de predios · gobierno municipal
+- **1,000+ predios** registrados con geolocalización GPS + coordenadas UTM
+- Arquitectura **offline-first**: queue local → sync diferida al recuperar señal
+- Exportación **DXF / GeoJSON / CSV** para interoperabilidad con sistemas GIS
+- **Supabase RLS** por roles: catastrador · validador · administrador · consulta
+- Mapas vectoriales Leaflet con capas personalizadas por zona catastral
+
+</td>
 <td width="50%" valign="top">
 
 **TodoApp — Gestión Municipal**
 `React Native` `Firebase` `Expo` `FCM`
 ![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
 
-Gestión de tareas municipales · **Zempoala, Hidalgo**
-- 71+ usuarios: 11 secretarios · 57 directores · 3 admins
-- Kanban · Calendario · Push FCM · Sync Realtime
-
-</td>
-<td width="50%" valign="top">
-
-**BMW Ixmiquilpan 2026 — XV Convención**
-`React 19` `Vite` `Firebase` `Framer Motion`
-![](https://img.shields.io/badge/●_LIVE-6b8e23?style=flat-square)
-
-Sitio oficial · **Convención Internacional BMW**
-- Registro · códigos únicos · PDF con QR
-
-[![demo →](https://img.shields.io/badge/demo_→-8ab52a?style=flat-square&logo=vercel&logoColor=0f1309)](https://bmwam.vercel.app/)
+Sistema de gestión de tareas · **Zempoala, Hidalgo**
+- **71 usuarios reales**: 11 secretarios · 57 directores · 3 administradores
+- Arquitectura **multi-tenant** con Firestore rules por dependencia municipal
+- Push notifications **FCM** con segmentación por rol, área y prioridad
+- Sync en tiempo real · Kanban · Calendario · historial de cambios por tarea
 
 </td>
 </tr>
@@ -172,11 +155,42 @@ Sitio oficial · **Convención Internacional BMW**
 `React Native` `Next.js 15` `Supabase` `Expo`
 ![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
 
-Gestión de luminarias · app móvil + panel web integrado
-- GPS automático · Funciona **sin señal** · Offline-first
-- Sync automático · Dashboard administrativo
+Gestión de luminarias · arquitectura dual mobile + web admin
+- **React Native** (trabajo en campo) + **Next.js 15** (panel administrativo)
+- Queue local offline → sync automático al recuperar conectividad
+- GPS automático con precisión submétrica · funciona **sin señal celular**
+- Dashboard estadístico por zona · exportación de reportes municipales
 
 </td>
+<td width="50%" valign="top">
+
+**Gobierno de Ixmiquilpan — Sitio Oficial**
+`React` `Tailwind` `JavaScript` `SEO`
+![](https://img.shields.io/badge/★_PREMIO_OX_2026-6b8e23?style=flat-square)
+
+Sitio oficial municipio · **Premio OX Internacional · España**
+- Categoría Organismos y Gobierno · reconocimiento internacional
+- SEO técnico: Core Web Vitals · meta estructurados · accesibilidad WCAG
+- Arquitectura estática optimizada · carga < 2s · sin dependencias pesadas
+
+[![ver sitio →](https://img.shields.io/badge/ver_sitio_→-8ab52a?style=flat-square&logo=googlechrome&logoColor=0f1309)](https://gobiernoixmiquilpan.gob.mx/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/────────────────────────────────────────────_OTROS_PROYECTOS_────────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=6b8e23)
+
+</div>
+
+<br/>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 **IxmiSport — Reservación Deportiva**
@@ -184,22 +198,7 @@ Gestión de luminarias · app móvil + panel web integrado
 ![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
 
 Sistema web municipal · espacios deportivos
-- Calendario interactivo · Disponibilidad real-time
-- Panel de administración completo
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Gobierno de Ixmiquilpan — Sitio Oficial**
-`React` `Tailwind` `JavaScript` `SEO`
-![](https://img.shields.io/badge/★_PREMIO_OX_2026-6b8e23?style=flat-square)
-
-Sitio oficial · **Premio OX Internacional · España**
-- Categoría Gobierno · Reconocimiento internacional
-
-[![ver sitio →](https://img.shields.io/badge/ver_sitio_→-8ab52a?style=flat-square&logo=googlechrome&logoColor=0f1309)](https://gobiernoixmiquilpan.gob.mx/)
+- Calendario interactivo · disponibilidad real-time · panel de administración
 
 </td>
 <td width="50%" valign="top">
@@ -208,22 +207,22 @@ Sitio oficial · **Premio OX Internacional · España**
 `React 19` `Firebase` `Tailwind`
 ![](https://img.shields.io/badge/●_PRODUCCIÓN_·_CONFIDENCIAL-6b8e23?style=flat-square)
 
-Sistema de asistencia municipal · producción real
-- Control de personal · Reportes automatizados
-- Integración con nómina
+Asistencia municipal · producción real
+- Control de personal · reportes automatizados · integración con nómina
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Ixmiscope — Catastro GPS**
-`React 19` `Supabase` `Leaflet` `PWA`
-![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
+**BMW Ixmiquilpan 2026 — XV Convención**
+`React 19` `Vite` `Firebase` `Framer Motion`
+![](https://img.shields.io/badge/●_LIVE-6b8e23?style=flat-square)
 
-PWA de catastro municipal · levantamiento GPS
-- Mapas interactivos con Leaflet · Funciona offline
-- Geolocalización precisa · Sync con Supabase
+Sitio oficial · Convención Internacional BMW
+- Registro · códigos únicos · PDF con QR
+
+[![demo →](https://img.shields.io/badge/demo_→-8ab52a?style=flat-square&logo=vercel&logoColor=0f1309)](https://bmwam.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -233,8 +232,7 @@ PWA de catastro municipal · levantamiento GPS
 ![](https://img.shields.io/badge/PONENTE_NACIONAL-6b8e23?style=flat-square)
 
 XXXIII Reunión Nacional ANIEI · Guadalajara
-- Predicción adaptabilidad estudiantil · Coautoría UAEH
-- Paper publicado · Reconocimiento nacional
+- Predicción adaptabilidad estudiantil · coautoría UAEH · paper publicado
 
 </td>
 </tr>
@@ -261,34 +259,8 @@ XXXIII Reunión Nacional ANIEI · Guadalajara
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haz117&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haz117&theme=vue" height="170"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haz117&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haz117&theme=vue" height="170"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haz117&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haz117&theme=vue" height="170"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haz117&theme=github_dark&utcOffset=-6"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haz117&theme=vue&utcOffset=-6" height="170"/>
-</picture>
-
-<br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Haz117&background=0f1309&border=28351a&stroke=6b8e23&ring=8ab52a&fire=8ab52a&currStreakLabel=ede8dc&sideLabels=b5ae99&dates=6b6458&currStreakNum=8ab52a&sideNums=6b8e23&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
   <img src="https://streak-stats.demolab.com?user=Haz117&background=f8fff2&border=8ab52a&stroke=6b8e23&ring=4a7c10&fire=6b8e23&currStreakLabel=2d5008&sideLabels=4a6b20&dates=6b6458&currStreakNum=2d5008&sideNums=3d6b10&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Haz117&bg_color=090c06&color=8ab52a&line=6b8e23&point=8ab52a&area=true&area_color=1a2110&hide_border=false&border_color=28351a&custom_title=Actividad+de+Contribuciones&title_color=8ab52a&radius=6"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haz117&bg_color=f8fff2&color=2d5008&line=4a7c10&point=6b8e23&area=true&area_color=d4eda0&hide_border=false&border_color=8ab52a&custom_title=Actividad+de+Contribuciones&title_color=2d5008&radius=6" width="96%"/>
 </picture>
 
 </div>
@@ -313,29 +285,6 @@ XXXIII Reunión Nacional ANIEI · Guadalajara
 | `✓` | `2024` | Publicación ANIEI: *"Modelos CNN para Clasificación"* |
 | `✓` | `2024` | Subcampeón Ajedrez Universitario — UAEH |
 | `✓` | `2020–25` | Lic. Ingeniería en Desarrollo de Software — UAEH |
-
-<br/>
-
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=28351a&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6b8e23&height=3" width="100%"/>
-</picture>
-
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/─────────────────────────────────────────────_CONTRIBUCIONES_─────────────────────────────────────────────-0f1309?style=flat&labelColor=0f1309&color=8ab52a)
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/6b8e23/Haz117"/>
-  <img src="https://ghchart.rshah.org/4a7c10/Haz117" alt="Contribuciones GitHub" width="96%"/>
-</picture>
 
 <br/>
 
