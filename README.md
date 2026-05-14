@@ -122,7 +122,7 @@ $ _
 <tr>
 <td width="50%" valign="top">
 
-**Ixmiscope — Catastro GPS Municipal**
+**Catdata — Catastro GPS Municipal**
 `React 19` `Supabase` `Leaflet` `PWA`
 ![](https://img.shields.io/badge/●_PRODUCCIÓN-6b8e23?style=flat-square)
 
