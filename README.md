@@ -16,7 +16,7 @@
 
 # Hazel Jared Almaraz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=8AB52A&vCenter=true&width=560&lines=Software+Engineer+·+8+sistemas+en+producción+real;GIS+·+Offline-first+·+Mobile+·+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=8AB52A&vCenter=true&width=560&lines=Software+Engineer+·+8+sistemas+en+producción+real;GIS+·+Offline-first+·+Mobile+·+Full+Stack;Premio+OX+Internacional+2026+·+España;AWS+Certified+·+UAEH+2025)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portafolio-hazel-kohl.vercel.app-8ab52a?style=flat-square&logo=vercel&logoColor=white&labelColor=0f1309)](https://portafolio-hazel-kohl.vercel.app/)
 [![Email](https://img.shields.io/badge/hazelalmaraz91@gmail.com-6b8e23?style=flat-square&logo=gmail&logoColor=white&labelColor=0f1309)](mailto:hazelalmaraz91@gmail.com)
@@ -235,6 +235,13 @@ Sitio oficial municipio · **Premio OX Internacional · España**
   <img src="https://streak-stats.demolab.com?user=Haz117&background=f8fff2&border=8ab52a&stroke=6b8e23&ring=4a7c10&fire=6b8e23&currStreakLabel=2d5008&sideLabels=4a6b20&dates=6b6458&currStreakNum=2d5008&sideNums=3d6b10&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
 </picture>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Haz117&layout=compact&langs_count=8&bg_color=0f1309&border_color=28351a&title_color=8ab52a&text_color=ede8dc&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haz117&layout=compact&langs_count=8&bg_color=f8fff2&border_color=8ab52a&title_color=2d5008&text_color=2d5008" width="400"/>
+</picture>
+
 </div>
 
 <picture>
@@ -280,7 +287,7 @@ Sitio oficial municipio · **Premio OX Internacional · España**
 [![Gmail](https://img.shields.io/badge/hazelalmaraz91@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f1309)](mailto:hazelalmaraz91@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hazel--almaraz--martinez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f1309)](https://linkedin.com/in/hazel-almaraz-martinez)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B52_773_113_5626-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0f1309)](https://wa.me/527731135626)
-[![Portfolio](https://img.shields.io/badge/Portfolio-git--two--xi.vercel.app-8ab52a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f1309)](https://git-two-xi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portafolio--hazel--kohl.vercel.app-8ab52a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f1309)](https://portafolio-hazel-kohl.vercel.app/)
 
 <br/>
 
