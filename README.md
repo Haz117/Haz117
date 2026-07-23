@@ -18,7 +18,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=8AB52A&vCenter=true&width=560&lines=Software+Engineer+·+8+sistemas+en+producción+real;GIS+·+Offline-first+·+Mobile+·+Full+Stack;Premio+OX+Internacional+2026+·+España;AWS+Certified+·+UAEH+2025)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portafolio-portafolio--hazel--kohl.vercel.app-8ab52a?style=flat-square&logo=vercel&logoColor=white&labelColor=0f1309)](https://portafolio-hazel-kohl.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portafolio-portafolio--hazel--kohl%2Evercel%2Eapp-8ab52a?style=flat-square&logo=vercel&logoColor=white&labelColor=0f1309)](https://portafolio-hazel-kohl.vercel.app/)
 [![Email](https://img.shields.io/badge/hazelalmaraz91@gmail.com-6b8e23?style=flat-square&logo=gmail&logoColor=white&labelColor=0f1309)](mailto:hazelalmaraz91@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/hazel--almaraz--martinez-8ab52a?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f1309)](https://linkedin.com/in/hazel-almaraz-martinez)
 [![WhatsApp](https://img.shields.io/badge/%2B52_773_113_5626-6b8e23?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0f1309)](https://wa.me/527731135626)
@@ -287,7 +287,7 @@ Sitio oficial municipio · **Premio OX Internacional · España**
 [![Gmail](https://img.shields.io/badge/hazelalmaraz91@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f1309)](mailto:hazelalmaraz91@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hazel--almaraz--martinez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f1309)](https://linkedin.com/in/hazel-almaraz-martinez)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B52_773_113_5626-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0f1309)](https://wa.me/527731135626)
-[![Portfolio](https://img.shields.io/badge/Portfolio-portafolio--hazel--kohl.vercel.app-8ab52a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f1309)](https://portafolio-hazel-kohl.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portafolio--hazel--kohl%2Evercel%2Eapp-8ab52a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f1309)](https://portafolio-hazel-kohl.vercel.app/)
 
 <br/>
 
